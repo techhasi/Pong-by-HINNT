@@ -1,5 +1,5 @@
 <h2>About</h2>
-Pong is a two-dimensional sports game.
+Pong is a two-dimensional sports game developed using C++ and raylib library.
 It mimics table tennis(Ping pong).
 This is a multiplayer co-op game.
 Two players can compete with each other at one time.
